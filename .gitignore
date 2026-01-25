@@ -1,0 +1,47 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache and library binaries
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.dll
+*.so
+
+# Machine Learning artifacts
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.cbm
+*.pth
+*.pt
+
+# Logs
+logs/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Package files
+*.egg-info/
+dist/
+build/
+
+# CatBoost training info
+catboost_info/
