@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache and library binaries
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.dll
+*.so
