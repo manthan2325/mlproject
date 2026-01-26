@@ -2,7 +2,7 @@
 venv/
 .venv/
 env/
-.artifacts
+
 
 # Python cache and library binaries
 __pycache__/
